@@ -5,7 +5,7 @@ This web application as provided as a sandbox, an experimental or testing enviro
 Code documentation, and all assets used are used for testing, educational, prototyping, or demonstration purposes.
 
 2. Licensing:
-ALL code and materials conatined within this repository are released under the MIT License, meaning you are free to use, modify, and distribute this software according to the License text, though you have to credit the original creator as they claim copyright over this project.
+ALL code and materials conatined within this repository are released under the MIT License, meaning you are free to use, modify, and distribute this software according to the License text, though you have to credit the original creator as they claim copyright over this project. (MUST CREDIT REDSQUARE STUDIOS)
 
 3. No Warranty & Limitation of Liability:
 The software is provided "AS IS," without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from the use or distribution of this sandbox code.
